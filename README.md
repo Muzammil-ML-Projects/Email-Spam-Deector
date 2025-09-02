@@ -53,10 +53,6 @@ A simple **Machine Learning + NLP** web app built with **Flask** that classifies
 
 ---
 
-### 🌐 Live Demo
-[Click here to try it out](https://muzammil-ml-projects.github.io/Email-Spam-Deector/)
-
----
 
 ### 📸 Screenshots
 | Home Page |
