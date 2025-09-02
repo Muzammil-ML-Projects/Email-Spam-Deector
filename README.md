@@ -65,14 +65,14 @@ A simple **Machine Learning + NLP** web app built with **Flask** that classifies
 
 ---
 
-📍 Roadmap
+### 📍 Roadmap
 - Improve UI with modern design.
 - Add database support to save classified emails.
 - Deploy on cloud (Heroku / Render).
  
  ---
 
- ###✨ Features
+### ✨ Features
  
 - 🧠 Uses NLP techniques (tokenization, TF-IDF) for text processing.
 - 🤖 Machine Learning model trained on email dataset.
@@ -83,9 +83,10 @@ A simple **Machine Learning + NLP** web app built with **Flask** that classifies
 <details>
   <summary>📌 Why use this project?</summary> This project is helpful for students and beginners learning **Flask + ML + NLP integration**.
 </details>
+
 ---
 
-###🤝 Contributing
+### 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 Feel free to fork this repository and submit pull requests.
