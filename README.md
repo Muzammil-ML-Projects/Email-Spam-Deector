@@ -23,7 +23,7 @@ A simple **Machine Learning + NLP** web app built with **Flask** that classifies
 - [Live Demo](#-live-demo)
 - [Screenshots](#-screenshots)
 - [Features](#-features)
-- [Roadmap](#roadmap)
+- [Roadmap](#-roadmap)
 - [Contributing](#-contributing)
 - [License](#-license)
 - [Contact](#-contact)
