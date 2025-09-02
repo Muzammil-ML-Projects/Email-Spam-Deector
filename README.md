@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/your-username/email-classifier/main/images/banner.png" alt="Email Classifier Banner" width="600"/>
+  <img src="https://raw.githubusercontent.com/muzammil-ml-projects/Email-spam-Detector/main/screenshots/banner.png" alt="Mulit-Calculator Banner" width="600"/>
 </p>
 
 ## ✉ Email Classifier
