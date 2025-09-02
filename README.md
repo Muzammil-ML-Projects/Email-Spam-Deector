@@ -20,7 +20,7 @@ A simple **Machine Learning + NLP** web app built with **Flask** that classifies
 ### 📑 Table of Contents
 - [Tech Stack](#-tech-stack)
 - [How to Use](#-how-to-use)
-- [Screenshots](#-screenshots)
+- [Screenshot](#-screenshot)
 - [Features](#-features)
 - [Roadmap](#-roadmap)
 - [Contributing](#-contributing)
@@ -53,7 +53,7 @@ A simple **Machine Learning + NLP** web app built with **Flask** that classifies
 ---
 
 
-### 📸 Screenshots
+### 📸 Screenshot
 | Home Page |
 |-----------|
 | ![Home](./images/screenshot.png)
