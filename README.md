@@ -55,7 +55,7 @@ A simple **Machine Learning + NLP** web app built with **Flask** that classifies
 
 
 ### 📸 Screenshot
-| Home Page |
+| Page |
 |-----------|
 | ![Home](./images/screenshot.png)
 
