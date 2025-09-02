@@ -1,0 +1,89 @@
+/* Roboto font */
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Oswald:wght@200..700&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Roboto+Condensed:ital,wght@0,100..900;1,100..900&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+
+/* courier prime */
+@import url('https://fonts.googleapis.com/css2?family=Courier+Prime:ital,wght@0,400;0,700;1,400;1,700&family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Oswald:wght@200..700&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Roboto+Condensed:ital,wght@0,100..900;1,100..900&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+
+/* Reseting */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* font size */
+html{
+    font-size: 62.5%;
+}
+
+body{
+    font-size: 1.6rem;
+    font-weight: 400;
+    font-family: "Roboto", sans-serif;
+    list-style: 1.4;
+    background-color: #f4f6f9;
+}
+/* title */
+#title{
+    text-align: center;
+    padding: 2rem;
+    background-color: #3498db;
+    margin-bottom: 3rem;
+}
+/* form */
+#form_container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+form{
+    padding: 3rem;
+    background: #ffffff;
+    width: 80rem;
+}
+/* textarea */
+form textarea{
+    width: 100%;
+    height: 30rem;
+    border: 2px solid #a89595;
+    border-radius: 0.8rem;
+    resize: none;
+    Font-family: "Courier Prime", monospace;
+    padding: 1rem;
+    font-size: 1.8rem;
+}
+form textarea:focus{
+    outline: none;
+}
+/* button and result container */
+#btn_res{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+#btn_res button{
+    padding:  1rem 2rem;
+    border-radius: 0.8rem;
+    border: none;
+    color: white;
+    font-weight: 500;
+    font-size: 1.8rem;
+    background: #27ae60;
+    cursor: pointer;
+    height: 4.1rem;
+}
+#btn_res button:hover{
+    background: #2ecc71;
+}
+#res{
+    padding: 1rem;
+    display:flex;
+    flex-direction: column;
+    gap: 0.5rem;
+}
+/* footer */
+footer p{
+    text-align: center;
+    padding: 2rem;
+}

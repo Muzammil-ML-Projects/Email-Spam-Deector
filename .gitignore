@@ -1,0 +1,5 @@
+# Dataset file ignore
+dataset.csv
+
+# Virtual environment folder ignore
+env/

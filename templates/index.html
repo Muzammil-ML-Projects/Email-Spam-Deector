@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Email Spam Classifier</title>
+    <link
+      rel="stylesheet"
+      href="{{url_for('static', filename = 'style.css')}}"
+    />
+  </head>
+  <body>
+    <!-- header -->
+    <header>
+        <!-- title -->
+      <h1 id="title">Email Spam Detector</h1>
+    </header>
+    <!-- main -->
+    <main>
+<!-- form -->
+      <div id="form_container">
+        <form method="POST" action="/predict">
+            <!-- textarea -->
+          <textarea
+            name="email"
+            rows="5"
+            cols="40"
+            required
+            placeholder="Paste your E-mail here"
+          ></textarea>
+          <!-- button & result -->
+          <div id="btn_res">
+            <button type="submit">Predict</button>
+            {% if prediction or confidence %}
+            <div id="res"  style="background-color: #27ae60; border-radius: 8px;color: white;">
+            <p id="prediction" >E-mail is: {{prediction}}</p>
+            <p id="result">Confidence: {{confidence}}</p>
+            {% endif %}
+            </div>
+          </div>
+        </form>
+      </div>
+    </main>
+    <!-- footer -->
+    <footer>
+      <p>© 2025 Email Classifier Project | Built with Flask & Scikit-Learn</p>
+    </footer>
+  </body>
+</html>
