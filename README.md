@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/your-username/email-classifier/main/images/banner.png" alt="Email Classifier Banner" width="600"/>
 </p>
 
-# ✉ Email Classifier
+## ✉ Email Classifier
 A simple **Machine Learning + NLP** web app built with **Flask** that classifies emails as:
 - 📩 Not Spam  
 - 🚨 Spam  
