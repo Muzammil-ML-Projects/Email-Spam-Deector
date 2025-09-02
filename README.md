@@ -12,8 +12,9 @@ A simple **Machine Learning + NLP** web app built with **Flask** that classifies
 ![Contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen?style=for-the-badge)
 ![License](https://img.shields.io/badge/license-MIT-blue?style=for-the-badge)
 ![Status](https://img.shields.io/badge/status-active-success?style=for-the-badge)
-![GitHub stars](https://img.shields.io/github/stars/your-username/email-classifier?style=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks/your-username/email-classifier?style=for-the-badge)
+![GitHub stars](https://img.shields.io/github/stars/Muzammil-ML-Projects/Email-Spam-Detector?style=for-the-badge)
+![GitHub forks](https://img.shields.io/github/forks/Muzammil-ML-Projects/Email-Spam-Detector?style=for-the-badge)
+
 
 ---
 
