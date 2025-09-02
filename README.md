@@ -57,6 +57,7 @@ A simple **Machine Learning + NLP** web app built with **Flask** that classifies
 [Click here to try it out](https://muzammil-frontend-web-projects.github.io/Multi-Calculator/)
 
 ---
+
 ### 📸 Screenshots
 | Home Page |
 |-----------|
@@ -65,23 +66,26 @@ A simple **Machine Learning + NLP** web app built with **Flask** that classifies
 ---
 
 📍 Roadmap
- Improve UI with modern design.
- Add database support to save classified emails.
- Deploy on cloud (Heroku / Render).
+- Improve UI with modern design.
+- Add database support to save classified emails.
+- Deploy on cloud (Heroku / Render).
  
  ---
 
- ✨ Features
+ ###✨ Features
  
-🧠 Uses NLP techniques (tokenization, TF-IDF) for text processing.
-🤖 Machine Learning model trained on email dataset.
-🔎 Classifies emails as Spam or Not Spam.
-📊 Shows prediction with confidence score.
-🌐 Simple web interface with HTML, CSS, JS + Flask.
+- 🧠 Uses NLP techniques (tokenization, TF-IDF) for text processing.
+- 🤖 Machine Learning model trained on email dataset.
+- 🔎 Classifies emails as Spam or Not Spam.
+- 📊 Shows prediction with confidence score.
+- 🌐 Simple web interface with HTML, CSS, JS + Flask.
 
-<details> <summary>📌 Why use this project?</summary> This project is helpful for students and beginners learning **Flask + ML + NLP integration**. </details>
+<details>
+  <summary>📌 Why use this project?</summary> This project is helpful for students and beginners learning **Flask + ML + NLP integration**.
+</details>
+---
 
-🤝 Contributing
+###🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 Feel free to fork this repository and submit pull requests.
@@ -99,6 +103,3 @@ This project is licensed under the [MIT License](./LICENSE).
 [![TikTok](https://img.shields.io/badge/TikTok-000000?logo=tiktok&logoColor=white)](https://www.tiktok.com/@cornerofcodes)
 
 ---
-
-   ```bash
-   git clone https://github.com/your-username/email-classifier.git
